@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "biz.takagi.branch_io_scheme_app",
+    "sha256_cert_fingerprints":
+    ["ED:69:C2:AA:B7:1C:C3:89:03:52:56:02:1B:8C:B9:EB:E2:46:DC:E3:8C:D3:28:A7:2C:10:57:2F:01:4B:9E:DF"]
+  }
+}]
